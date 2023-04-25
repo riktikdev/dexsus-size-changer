@@ -1,0 +1,7 @@
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\bin\Debug\d3xsus-size-changer.exe.config
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\bin\Debug\d3xsus-size-changer.exe
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\bin\Debug\d3xsus-size-changer.pdb
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\obj\Debug\d3xsus-size-changer.csproj.CoreCompileInputs.cache
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\obj\Debug\d3xsus-size-changer.exe
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\obj\Debug\d3xsus-size-changer.pdb
+D:\artur-projects\С# Projects\d3xsus-size-changer\size-changer\d3xsus-size-changer\obj\Debug\d3xsus-size-changer.csproj.AssemblyReference.cache
